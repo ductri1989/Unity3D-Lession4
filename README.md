@@ -12,10 +12,11 @@ Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở 
     - Xử lý phím di chuyển nhân vật
 - Setup camera
     - Camera ở nhiều góc của bản đồ : Lerp và set tọa độ, góc quay
-    - Camera gáy :
+    - Camera đi theo nhân vật :
         - Cam theo nhân vật
         - Cam quay theo góc nhìn của nhân vật
         - Cam ngước lên xuống
+    - Nhân vật đi theo camera
     
 
 
